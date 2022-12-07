@@ -1,0 +1,10 @@
+^C:\USERS\BMINJ\ONEDRIVE\DESKTOP\SURFACE-SIMPLIFICATION\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/bminj/OneDrive/Desktop/surface-simplification -BC:/Users/bminj/OneDrive/Desktop/surface-simplification/build --check-stamp-file C:/Users/bminj/OneDrive/Desktop/surface-simplification/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

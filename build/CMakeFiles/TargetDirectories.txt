@@ -1,0 +1,6 @@
+C:/Users/bminj/OneDrive/Desktop/surface-simplification/build/CMakeFiles/edge_collapse.dir
+C:/Users/bminj/OneDrive/Desktop/surface-simplification/build/CMakeFiles/compilation_of__Surface_mesh_simplification_Examples.dir
+C:/Users/bminj/OneDrive/Desktop/surface-simplification/build/CMakeFiles/ALL_CGAL_TARGETS.dir
+C:/Users/bminj/OneDrive/Desktop/surface-simplification/build/CMakeFiles/cgal_check_build_system.dir
+C:/Users/bminj/OneDrive/Desktop/surface-simplification/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/bminj/OneDrive/Desktop/surface-simplification/build/CMakeFiles/ZERO_CHECK.dir
